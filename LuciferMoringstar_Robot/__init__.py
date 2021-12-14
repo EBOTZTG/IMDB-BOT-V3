@@ -28,14 +28,14 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  IMDB BOT
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [CHARLES BABBAGE](
+https://t.me/Charles_Babage)
 
-➥ Language : Python3
+➥ Language : Python89
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Library : INTERNATIONAL
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ ADMIN : [Click Me](https://t.me/Charles_Babbage)
 """
